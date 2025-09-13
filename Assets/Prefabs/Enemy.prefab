@@ -133,6 +133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _mover: {fileID: 2071771160767107132}
+  _renderer: {fileID: 3881400668728233221}
 --- !u!114 &2071771160767107132
 MonoBehaviour:
   m_ObjectHideFlags: 0
